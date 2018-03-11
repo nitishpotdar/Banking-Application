@@ -1,4 +1,4 @@
-# Banking-Application
+# Distributed-Banking-Application
 
 The objective of the program is to design and develop 3 tier interactive TCP/IP client – server banking application using Socket API. 
 
